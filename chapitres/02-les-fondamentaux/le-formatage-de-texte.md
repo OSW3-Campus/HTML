@@ -69,6 +69,25 @@ La balise `<small>` définit du texte plus petit.
 
 <!-- tabs:end -->
 
+
+## Texte souligné
+
+La balise `<u>` souligne du texte.
+
+<!-- tabs:start -->
+
+###### ** Code HTML **
+
+```html
+<h2>Ce texte est <u>souligné</u></h2>
+```
+
+##### ** Rendu **
+
+<h2>Ce texte est <u>souligné</u></h2>
+
+<!-- tabs:end -->
+
 ## Texte surligné
 
 La balise `<mark>` définit du texte en surbrillance.
