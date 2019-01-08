@@ -57,6 +57,10 @@
     * [Les symboles][3-2]
     * [L'encodage][3-3]
     * [Les commentaires][3-4]
+[3-1]: chapitres/03-caracteres-speciaux/les-entites.md
+[3-2]: chapitres/03-caracteres-speciaux/les-symboles.md
+[3-3]: chapitres/03-caracteres-speciaux/l-encodage.md
+[3-4]: chapitres/03-caracteres-speciaux/les-commentaires.md
 
 * LES FORMULAIRES
 

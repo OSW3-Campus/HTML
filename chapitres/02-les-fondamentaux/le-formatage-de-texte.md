@@ -21,7 +21,7 @@ La balise `<strong>` définit du texte en important affiché en gras.
 
 <!-- tabs:end -->
 
-> **Remarque**: Les navigateurs affichent `<strong>` et `<b>` de la même façon, cependant, il y a une différence dans le sens de ces balises: 
+!> **Remarque**: Les navigateurs affichent `<strong>` et `<b>` de la même façon, cependant, il y a une différence dans le sens de ces balises: 
 - `<strong>` signifie que le texte est **important**
 - `<b>` définit le texte en gras
 
